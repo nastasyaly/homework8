@@ -1,0 +1,15 @@
+/Users/mac/Desktop/HW/homework8/hw4/obj/Debug/net7.0/hw4.csproj.AssemblyReference.cache
+/Users/mac/Desktop/HW/homework8/hw4/obj/Debug/net7.0/hw4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/HW/homework8/hw4/obj/Debug/net7.0/hw4.AssemblyInfoInputs.cache
+/Users/mac/Desktop/HW/homework8/hw4/obj/Debug/net7.0/hw4.AssemblyInfo.cs
+/Users/mac/Desktop/HW/homework8/hw4/obj/Debug/net7.0/hw4.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/HW/homework8/hw4/bin/Debug/net7.0/hw4
+/Users/mac/Desktop/HW/homework8/hw4/bin/Debug/net7.0/hw4.deps.json
+/Users/mac/Desktop/HW/homework8/hw4/bin/Debug/net7.0/hw4.runtimeconfig.json
+/Users/mac/Desktop/HW/homework8/hw4/bin/Debug/net7.0/hw4.dll
+/Users/mac/Desktop/HW/homework8/hw4/bin/Debug/net7.0/hw4.pdb
+/Users/mac/Desktop/HW/homework8/hw4/obj/Debug/net7.0/hw4.dll
+/Users/mac/Desktop/HW/homework8/hw4/obj/Debug/net7.0/refint/hw4.dll
+/Users/mac/Desktop/HW/homework8/hw4/obj/Debug/net7.0/hw4.pdb
+/Users/mac/Desktop/HW/homework8/hw4/obj/Debug/net7.0/hw4.genruntimeconfig.cache
+/Users/mac/Desktop/HW/homework8/hw4/obj/Debug/net7.0/ref/hw4.dll
